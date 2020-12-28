@@ -5,7 +5,8 @@ This repository records my study on MATH5431 Advanced Statistics I, 2020 Fall. S
 * [Final Exam and My Answer](https://github.com/Dolores2333/MATH5431/tree/main/FinalExam)
 * [PhD Qualification Exam and My Answer](https://github.com/Dolores2333/MATH5431/tree/main/QualificationExam)
 
-#### Two special offers 💕 that guarantee a painless 💯 pass on the qualification exam. 
+### Two special offers 💕 that guarantee a painless 💯 pass on the qualification exam. 
 * [Detailed Solutions to the Official Course Notes](https://github.com/Dolores2333/MATH5431/blob/main/AdvancedStatisticsEstimationWithHandWrittenSolutions.pdf)
 ⚡[Click Here to Download](https://github.com/Dolores2333/MATH5431/blob/main/AdvancedStatisticsEstimationWithHandWrittenSolutions.pdf?raw=true)
-
+* [CheatSheet](https://github.com/Dolores2333/MATH5431/blob/main/Summary.pdf)
+⚡[Click Here to Download](https://github.com/Dolores2333/MATH5431/blob/main/AdvancedStatisticsEstimationWithHandWrittenSolutions.pdf?raw=true)
